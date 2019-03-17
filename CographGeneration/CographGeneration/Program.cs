@@ -13,11 +13,11 @@ namespace Cograph_Generator
             System.IO.Directory.CreateDirectory("c:/retorno_app_cografos/");
             CoArvore t;
             Console.WriteLine("---------- Cograph Generator (format .g6)----------");
-            Console.WriteLine("This program is a implementation of algorithm from paper:");
+            Console.WriteLine("This program is a implementation of the algorithm from paper:");
             Console.WriteLine("Cograph generation with linear delay (doi.org/10.1016/j.tcs.2017.12.037)");
             Console.WriteLine("Atila A.Jones, Fábio Protti and Renata R.Del-Vecchio");
             Console.WriteLine("--------------------------");
-            Console.WriteLine("Visit goo.gl/9cRzPX to download connected cographs until 19 vertices. If you wanna generate all cographs with n > 19 vertices, use this program");
+            Console.WriteLine("Visit goo.gl/9cRzPX to download connected cographs until 19 vertices. If you want to generate all cographs with n > 19 vertices, use this program");
             Console.WriteLine("");
             Console.WriteLine("--------------------------");
             Console.WriteLine("");
