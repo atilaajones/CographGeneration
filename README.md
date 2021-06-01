@@ -13,4 +13,4 @@ Paper: https://doi.org/10.1016/j.tcs.2017.12.037
 
 Cographs generated and executable: https://drive.google.com/drive/folders/1XLuDmi7iAmKMt7BhQ4KiKHDybky11Tor
 
-Informations about : http://users.cecs.anu.edu.au/~bdm/data/formats.html
+Informations about g6 format: http://users.cecs.anu.edu.au/~bdm/data/formats.html
